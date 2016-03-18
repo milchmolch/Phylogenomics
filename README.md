@@ -20,9 +20,8 @@ Topic             | Person
 Introduction | Heidi
 Tree inference methods | Heidi
 Heterozygote sampling | Heidi
-Tree basics and Terminology | Stefan
-Newick format | Stefan
-Downstream utilites (viewing, manipulating, summarizing trees) | Stefan
+Tree basics and Terminology, Newick format | Stefan
+Tools to view, manipulate, summarizing trees | Stefan
 Potential pitfalls | Stefan
 SuperTree / SuperMatrix strategy | Stefan
 Further topics | Stefan
@@ -31,9 +30,6 @@ Further topics | Stefan
 Heidi's parts: [Presentation](URPP_Tutorial_Phylogenomics_HL.pdf) | [Exercises](Exercises_Phylogenomics_HL.pdf)  
   
 Stefan's [presentation](URPP_Tutorial_Phylogenomics_SW.pdf)
-
-
-## Exercises
 
 
 ## Sources / Links
@@ -46,7 +42,6 @@ Stefan's [presentation](URPP_Tutorial_Phylogenomics_SW.pdf)
   Emmanuel Paradis (Springer, Use R ! series)
 
 **Interesting Journals**  
-
 - [Systematic Biology](http://sysbio.oxfordjournals.org/)
 - [Molecular Biology and Evolution](http://mbe.oxfordjournals.org/)
 
@@ -61,8 +56,14 @@ Stefan's [presentation](URPP_Tutorial_Phylogenomics_SW.pdf)
 **Discussed software**
 - [ASTRAL](https://github.com/smirarab/ASTRAL)
 - [DensiTree](https://github.com/rbouckaert/DensiTree)
+- [Dendroscope](http://ab.inf.uni-tuebingen.de/software/dendroscope/welcome.html)
 - [PartitionFinder](http://www.robertlanfear.com/partitionfinder/)
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
+- [Newick Utilities](http://cegg.unige.ch/newick_utils)
 - [MP-EST](http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-10-302)
 - [SNAPP]()
 - [SplitsTree](http://www.splitstree.org/)
+
+**Newick format descriptions**  
+- http://wiki.christophchamp.com/index.php?title=Newick_phylogenetic_tree_format
+- http://evolution.genetics.washington.edu/phylip/newicktree.html
