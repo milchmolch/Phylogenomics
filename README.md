@@ -61,7 +61,7 @@ Stefan's [presentation](URPP_Tutorial_Phylogenomics_SW.pdf)
 - [FigTree](http://tree.bio.ed.ac.uk/software/figtree/)
 - [Newick Utilities](http://cegg.unige.ch/newick_utils)
 - [MP-EST](http://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-10-302)
-- [SNAPP]()
+- [SNAPP / Beast2](https://www.beast2.org/snapp/)
 - [SplitsTree](http://www.splitstree.org/)
 
 **Newick format descriptions**  
